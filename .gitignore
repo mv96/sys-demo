@@ -1,0 +1,7 @@
+# ignore these folders
+./__pycache__
+./grobid_client_python
+./grobid-0.7.3
+./pdfalto
+.DS_Store
+./__pycache__/
